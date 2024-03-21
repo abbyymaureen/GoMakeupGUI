@@ -8,6 +8,14 @@ package main
 	This Go program loads in a json file to store as a Makeup Product struct. The user can then
 	select various makeup products and learn more about what they are, how much they cost, and how to use
 	them, making the makeup user's life easier!
+
+Sources:
+	https://www.sohamkamani.com/golang/json/#structured-data-decoding-json-into-structs
+	https://stackoverflow.com/questions/75206234/for-go-ioutil-readall-ioutil-readfile-ioutil-readdir-deprecated
+	https://docs.fyne.io/started/
+	https://github.com/fyne-io/fyne/issues/3337
+	https://pkg.go.dev/golang.org/x/text/currency
+	ChatGPT
 */
 
 import (
